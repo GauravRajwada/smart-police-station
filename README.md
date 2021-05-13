@@ -29,7 +29,7 @@ by machine from investigating officers this is shown by red line firstly server 
 upper authority and then authority can give strict instruction to investigating officer.
 
 ## Motivation
-I was having seen many videos that there is smart police station in Dubai. I feel like why it can't be also in Inida then I make small ppt and uploaded on digital India portal. At that time Amit Sirohi sir motivated me to do work on this because of him I get motivated. <br> After sometime I got call from MHRD that what is my idea they were just motivating me to do proper research on this and then contact them. I started to learn techs and try to implement some part on my idea. 
+I was having seen many videos that there is smart police station in Dubai. I feel like why it can't be also in Inida then I make small ppt and uploaded on digital India portal. At that time <b> Amit Sirohi </b> sir motivated me to do work on this because of him I get motivated. <br> After sometime I got call from MHRD that what is my idea they were just motivating me to do proper research on this and then contact them. I started to learn techs and try to implement some part on my idea. 
 <br> After a month I got mail from [<b>Bureau of Police Research & Development</b>](https://drive.google.com/file/d/1b1Cd6Z-t3hrVfHIctRfgwXn4-Pop1iSM/view). That they wanted to meet and discuss what is my approch. But at that time I was just having a simple idea in my mind and some written work they just said do some implementaion there is nothing before implementaion.
 From that day I start implemeting this project. Till now I think I have completed 1/3 implementation of project. Due to not getting proper resources and not proper guidence I am not able to complete this project.
 
